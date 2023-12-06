@@ -2,7 +2,7 @@ YouTube video Link:
 https://youtu.be/IZ065w_I_Cc
 
 Slide Link:
-
+https://docs.google.com/presentation/d/1qSqDCMgWIIr1Q_vPQv_20fMwN3EHMLJ-fjtvcyJ09gc/edit?usp=sharing
 
 Paper title:
 Multimodal Sarcasm Detection (MSD) in Videos using Deep Learning Models
